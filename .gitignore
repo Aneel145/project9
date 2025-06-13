@@ -1,5 +1,3 @@
-.env
-db.sqlite3
-*/_*.pycache_/*
-This is env
+project9/.env
+project9/.env
 project9/.env
